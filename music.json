@@ -1,0 +1,20 @@
+[
+  {
+    "src": "music/hebe-小幸运.mp3",
+    "title": "小幸运",
+    "singer": "hebe",
+    "img": "img/hebe.jpg"
+  },
+  {
+    "src": "music/落日飞车-My Jinji.mp3",
+    "title": "My Jinji",
+    "singer": "落日飞车",
+    "img": "img/落日飞车.jpg"
+  },
+  {
+    "src": "music/Lil Ghost-别叫我达芬奇.mp3",
+    "title": "别叫我达芬奇",
+    "singer": "Lil Ghost",
+    "img": "img/Lil Ghost.jpg"
+  }
+]
